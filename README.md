@@ -17,6 +17,18 @@ The project demonstrates how computer vision and adaptive decision logic can be 
 - **Modular Architecture:** Separates vehicle detection, traffic processing, and signal control into Python modules.
 - **Automated Tests:** Includes pytest tests for signal controller and vehicle detector functionality.
 
+## Application Screenshots
+
+### Dashboard Overview
+![Traffic management dashboard](screenshots/dashboard-overview.png)
+
+### Vehicle Detection
+![YOLOv8 vehicle detection results](screenshots/vehicle-detection.png)
+
+### Vehicle Counts and Signal Timings
+![Vehicle counts and simulated signal timings](screenshots/signal-timings.png)
+
+
 ## Technology Stack
 
 - **Language:** Python
